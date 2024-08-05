@@ -18,7 +18,7 @@ import Tempthree from "../../components/templates/Tempthree";
 import Tempfour from "../../components/templates/Tempfour";
 import AOS from "aos";
 import "aos/dist/aos.css";
-const home = () => {
+const Home = () => {
   // const banners =[eg1,eg2,eg3,eg4];
 
   // interface idDetails {
@@ -351,4 +351,4 @@ const home = () => {
   );
 };
 
-export default home;
+export default Home;
